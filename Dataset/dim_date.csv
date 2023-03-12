@@ -1,4 +1,4 @@
-date,mmm yy,week no,day_type
+check_in_date,mmm yy,week no,day_type
 01-May-22,May 22,W 19,weekend
 02-May-22,May 22,W 19,weekeday
 03-May-22,May 22,W 19,weekeday
